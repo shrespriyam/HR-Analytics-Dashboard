@@ -3,7 +3,7 @@ This is the Power BI Dashboard using a CSV file.
 
 # Objective
 Help an organization to improve employee performance and improve employee retention (reduce attrition) by creating a HR Analytics Dashboard.
-Basically, We can say with the help of this dashboard HR team can analyze and track the data of employees and their performances and how many people left the company in a month.
+Basically, We can say with the help of this dashboard HR team can analyze and track the data of employees and their performances and how many people left the company in which month.
 
 # Main Key Points
 In this dashboard firstly we will display the filters by department.
